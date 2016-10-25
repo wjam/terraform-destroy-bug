@@ -1,0 +1,10 @@
+terraform.tfvars
+override.tf
+**/.terraform
+vault-token
+.bundle
+.idea
+*.iml
+**/tmp
+terraform.tfstate*
+example.zip

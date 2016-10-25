@@ -1,0 +1,12 @@
+{
+  "server": true,
+  "acl_datacenter": "dc1",
+  "acl_master_token": "d6b8444a-11a2-4c5b-965b-dfe78ac63400",
+  "ui": true,
+  "dns_config": {
+    "allow_stale": false
+  },
+  "addresses": {
+    "http": "0.0.0.0"
+  }
+}
